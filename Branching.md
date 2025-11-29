@@ -27,8 +27,13 @@
 # Rename a branch
 - git branch -m <old_branch_name> <new_branch_name>
 
+# Rename remote branch 
+git push origin -u new-name
+
 # Delete a branch
 - git branch -d <branch_name>
+- git push origin --delete <branch> -> remote
+
 
 # What is merge conflicts--------------------------------------
 

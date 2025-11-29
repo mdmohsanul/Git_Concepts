@@ -4,3 +4,9 @@
 
 - git reflog
 - git reset --hard <commit_hash>
+
+# log
+
+- git log
+- git log --oneline
+- git log --oneline --graph --decorate

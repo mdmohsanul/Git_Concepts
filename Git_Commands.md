@@ -39,4 +39,4 @@
 # git log --oneline -> it will give logs in shorter
 
 
-
+# git remote -v -Lists remote repositories and their URLs.
